@@ -1,0 +1,26 @@
+{
+  "name": "fiddle-assert",
+  "version": "0.0.1",
+  "description": "fiddle-assert =============",
+  "main": "dist/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ripter/fiddle-assert.git"
+  },
+  "author": "Chris Richards",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ripter/fiddle-assert/issues"
+  },
+  "homepage": "https://github.com/ripter/fiddle-assert",
+  "devDependencies": {
+    "browserify": "^6.2.0",
+    "doxx": "^1.0.0",
+    "http-server": "^0.7.2",
+    "jshint": "^2.5.6",
+    "mocha": "^2.0.1"
+  }
+}
